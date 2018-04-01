@@ -99,3 +99,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# documents
+updated_course_data.csv
+website_course_data.csv
+updated_website_course_data.csv
+Set of Differences.docx
+Set of Differences.pdf
